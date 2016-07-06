@@ -1,0 +1,300 @@
+eat lunch
+Unigram: 吃午餐(9.80296049407e-05)
+Bigram: 吃午餐(1.0)
+eat burger
+Unigram: 吃汉堡包(5.12978352314e-05)
+Bigram: 吃汉堡包(0.04)
+Thursday morning
+Unigram: 周四上午(3.85787585356e-05)
+Bigram: 周四上午(1.0)
+old town
+Unigram: 古时城镇(9.12733545696e-08)
+Bigram: NOT FOUND(0.0)
+offline map
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+old castle
+Unigram: 古时城堡(1.2972120319e-06)
+Bigram: 古时城堡(1.0)
+wonderful trip
+Unigram: 美妙旅游(2.20130493356e-05)
+Bigram: 美妙旅游(1.0)
+small town
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+affordable price
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+rent car
+Unigram: 出租汽车(2.7487290564e-06)
+Bigram: 出租轿车(1.0)
+beautiful sunset
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+exciting experience
+Unigram: 刺激体验(5.78462677588e-06)
+Bigram: 刺激体验(1.0)
+colorful picture
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+walk through
+Unigram: 走穿过(4.49226207857e-05)
+Bigram: 走通过(1.0)
+deep travel
+Unigram: 深处进行(2.20130493356e-06)
+Bigram: NOT FOUND(0.0)
+comfortable sleep
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+climb mountain
+Unigram: 山山(2.17342874686e-05)
+Bigram: 攀登山(1.0)
+legend status
+Unigram: 传说地位(1.11217323655e-06)
+Bigram: NOT FOUND(0.0)
+white wine
+Unigram: 白色葡萄酒(8.3891679064e-06)
+Bigram: NOT FOUND(0.0)
+green vegetables
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+baked sausages
+Unigram: 烘焙香肠(1.77304650169e-06)
+Bigram: NOT FOUND(0.0)
+luxury goods
+Unigram: 美食货物(6.07024487368e-05)
+Bigram: 奢侈商品(1.0)
+historical building
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+population density
+Unigram: 人口浓厚(3.17240766707e-06)
+Bigram: 人口密度(1.0)
+fair price
+Unigram: 集市价格(6.50701347602e-06)
+Bigram: 集市价格(1.0)
+beautiful view
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+long distance
+Unigram: 长时间距离(9.84189972285e-07)
+Bigram: NOT FOUND(0.0)
+read newspaper
+Unigram: 研究报纸(7.8125e-06)
+Bigram: 显示报(1.0)
+learn German
+Unigram: 学习德语(7.34618916437e-05)
+Bigram: 学习德国人(1.0)
+small hotel
+Unigram: 腰部酒店(3.95385886586e-08)
+Bigram: NOT FOUND(0.0)
+city center
+Unigram: 城市中心(3.91573341687e-05)
+Bigram: 城市中心(1.0)
+big garten
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+subway station
+Unigram: 地铁所(4.28669410151e-05)
+Bigram: 地铁车站(1.0)
+shower gel
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+public place
+Unigram: 大众地方(3.30294622804e-05)
+Bigram: 社会座位(1.0)
+breakfast buffet
+Unigram: 早餐自助餐(1.72502646837e-05)
+Bigram: 早餐自助餐(0.142857142857)
+front desk
+Unigram: 前面服务台(1.96956290939e-07)
+Bigram: NOT FOUND(0.0)
+chocolate bar
+Unigram: 巧克力棒(3.11330887656e-05)
+Bigram: 巧克力棒(0.666666666667)
+blue sky
+Unigram: 蓝色天(7.17401285583e-06)
+Bigram: 蓝色天(0.5)
+old bridge
+Unigram: 古时桥(4.54330570763e-07)
+Bigram: NOT FOUND(0.0)
+many sculptures
+Unigram: 许多雕刻品(1.3540442526e-07)
+Bigram: NOT FOUND(0.0)
+famous square
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+fairy tale
+Unigram: 小精灵传说(5.5315594968e-08)
+Bigram: NOT FOUND(0.0)
+along the coast
+Unigram: 一起海岸(7.03586178753e-06)
+Bigram: 沿着海岸(1.0)
+conference hall
+Unigram: 会议走廊(3.91227046465e-07)
+Bigram: 会议大厅(1.0)
+hotel homepage
+Unigram: 酒店首页(2.12363821699e-05)
+Bigram: NOT FOUND(0.0)
+small balcony
+Unigram: 腰部阳台(3.43813814423e-09)
+Bigram: NOT FOUND(0.0)
+eat alone
+Unigram: 吃只有(0.000257201646091)
+Bigram: 吃只(1.0)
+romantic story
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+world war
+Unigram: 世界战争(5.2432299415e-06)
+Bigram: 世界战争(0.333333333333)
+stone statue
+Unigram: 石头雕像(5.47105560827e-06)
+Bigram: 石头雕像(1.0)
+travel tips
+Unigram: 经过倾斜(8.53256517493e-07)
+Bigram: NOT FOUND(0.0)
+credit card
+Unigram: 相信明信片(1.75066963113e-05)
+Bigram: 信用信用卡(1.5)
+Frankfurt airport
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+low popularity
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+shopping center
+Unigram: 购物中心(6.60982219578e-05)
+Bigram: 购物中心(1.0)
+old palace
+Unigram: 古时宫殿(1.38504155125e-06)
+Bigram: NOT FOUND(0.0)
+classic museum
+Unigram: 文豪博物馆(8.53752119618e-07)
+Bigram: 文豪博物馆(0.5)
+ground floor
+Unigram: 地面地面(6.8528823223e-06)
+Bigram: 地面地板(1.0)
+dream country
+Unigram: 想到国家(2.05675618698e-05)
+Bigram: 梦想地区(1.0)
+recommended lunch
+Unigram: 推荐午餐(9.80296049407e-05)
+Bigram: 推荐午餐(1.0)
+floating island
+Unigram: 漂浮岛(7.43675692668e-09)
+Bigram: NOT FOUND(0.0)
+Rhine River
+Unigram: 莱茵河河(2.16412742382e-05)
+Bigram: 莱茵河河(1.0)
+huge exhibition
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+large festival
+Unigram: 作乐节日(6.34895427221e-08)
+Bigram: NOT FOUND(0.0)
+cherry cake
+Unigram: 樱桃糕饼(0.000153893505694)
+Bigram: 樱桃蛋糕(2.0)
+tight schedule
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+different perspectives
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+first day
+Unigram: 第一一天(5.79762426241e-05)
+Bigram: 第一一天(1.0)
+special experience
+Unigram: 特价发现(4.10270515146e-07)
+Bigram: 特价发现(0.5)
+flight time
+Unigram: 飞行时间(7.9012345679e-05)
+Bigram: 飞行时间(2.0)
+buy tickets
+Unigram: 购买标签(7.07333635129e-06)
+Bigram: 购买标签(0.25)
+traditional house
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+good atmosphere
+Unigram: 好处气氛(4.41353011793e-06)
+Bigram: NOT FOUND(0.0)
+different lifestyles
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+speak English
+Unigram: 讲英语(4.87249176305e-07)
+Bigram: 讲英语(1.0)
+flexible time
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+helpful tips
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+ancient city
+Unigram: 古代人城市(1.79101098749e-07)
+Bigram: NOT FOUND(0.0)
+famous landmark
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+train station
+Unigram: 火车车站(6.52642619894e-05)
+Bigram: 火车车站(1.0)
+potato soup
+Unigram: 土豆汤(0.000244140625)
+Bigram: 马铃薯汤(1.0)
+traditional machine
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+famous painting
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+luxury life
+Unigram: 美食生活(0.000133333333333)
+Bigram: 豪华生活(1.0)
+economic crisis
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+important transportation
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+repair damage
+Unigram: 恢复毁坏(2.21870729682e-07)
+Bigram: NOT FOUND(0.0)
+delicious food
+Unigram: 喷香食物(1.53932355965e-06)
+Bigram: NOT FOUND(0.0)
+simple description
+Unigram: 笨蛋种类(2.89143817783e-08)
+Bigram: NOT FOUND(0.0)
+postcard design
+Unigram: 明信片计划(1.25974200484e-05)
+Bigram: 明信片设计(1.0)
+enough time
+Unigram: 充分时间(3.71802498513e-05)
+Bigram: 足够时间(1.0)
+bronze door
+Unigram: 青铜门(3.83051870011e-07)
+Bigram: 青铜色门(1.0)
+crowded street
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+booking process
+Unigram: 预订过程(4.10270515146e-06)
+Bigram: 预订过程(0.2)
+download map
+Unigram: 下载地图(5.40516192964e-06)
+Bigram: 下载地图(1.0)
+more expensive
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+shuttle bus
+Unigram: 梭子巴士(5.15720721634e-09)
+Bigram: NOT FOUND(0.0)
+international city
+Unigram: NOT FOUND(0.0)
+Bigram: NOT FOUND(0.0)
+go shopping
+Unigram: 成为购物(8.7940950583e-06)
+Bigram: 离开购物(2.0)
